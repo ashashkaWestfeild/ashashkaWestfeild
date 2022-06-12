@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashashkaWestfeild.
 - 👀 I’m interested in Data science and teaching Maths.
 - 🌱 I’m currently learning python, SQL & tableau.
-- 💞️ I’m looking to collaborate on projects to help me experience.
+- 💞️ I’m looking to collaborate on any open source projects involving data science.
 - 📫 How to reach me? <- you can mail me on priteshsingh101@gmail.com
 
 <!---

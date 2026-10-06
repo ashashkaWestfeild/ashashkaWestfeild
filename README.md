@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pritesh Singh (ashashkaWestfeild).
-- 👀 I’m interested in Data, learning, and teaching Maths.
+- 👀 I’m interested in Data, learning, teaching, Maths, AI Tools, AI Agents 
 - 🌱 I have with R, SQL, Tableau, Power BI, Python and currently working on AI tools
 - 💞️ I’m looking to collaborate on any open-source projects in the field of Data.
 - 📫 How to reach me? <- you can mail me at priteshsingh101@gmail.com

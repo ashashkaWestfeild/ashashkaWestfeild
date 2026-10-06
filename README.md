@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pritesh Singh (ashashkaWestfeild).
 - 👀 I’m interested in Data, learning, and teaching Maths.
-- 🌱 I know R, SQL & Tableau, and Python
+- 🌱 I have with R, SQL, Tableau, Power BI, Python and currently working on AI tools
 - 💞️ I’m looking to collaborate on any open-source projects in the field of Data.
 - 📫 How to reach me? <- you can mail me at priteshsingh101@gmail.com
 - Learnied Big Data Tools for Data Engineering
